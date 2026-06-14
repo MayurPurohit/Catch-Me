@@ -1,0 +1,13 @@
+door.png
+size:505,256
+filter:Linear,Linear
+pma:true
+door_close
+bounds:2,2,13,466
+rotate:90
+door_open
+bounds:2,17,237,472
+offsets:128,11,627,539
+rotate:90
+ruchka_1
+bounds:476,224,27,30
